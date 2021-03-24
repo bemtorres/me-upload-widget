@@ -1,6 +1,4 @@
-
 window.addEventListener('DOMContentLoaded', function () {
-
   // Parte uno
   var avatar = document.getElementById('avatar');
 
